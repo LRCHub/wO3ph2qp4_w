@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "祭りだヘイカモン",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-03-18T11:44:20.249878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祭りだヘイカモン",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/01_祭りだヘイカモン_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祭りだヘイカモン",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/02_祭りだヘイカモン_PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祭りだヘイカモン",
+      "artist": "PinocchioP feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/03_祭りだヘイカモン_PinocchioP_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祭りだヘイカモン (feat. Hatsune Miku)",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/04_祭りだヘイカモン_(feat._Hatsune_Miku)_PinocchioP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祭りだヘイカモン",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_祭りだヘイカモン_ピノキオピー.txt"
+    }
+  ]
+}
